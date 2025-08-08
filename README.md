@@ -1,4 +1,4 @@
-# OnlineGroceryStore
+# FreshMart Online Grocery Store
 
 A dynamic web application that allows users to browse, filter, and reserve grocery items from a virtual store.
 

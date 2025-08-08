@@ -4,6 +4,8 @@ A dynamic web application that allows users to browse, filter, and reserve groce
 
 This project uses HTML, CSS, JavaScript for the frontend, Node.js with Express for the backend, and MySQL for the database.
 
+Video Demo: https://youtu.be/nQiwrQ08-sA 
+
 ---
 
 ## Features
